@@ -1,0 +1,4 @@
+[
+    {"prompt": "Variable ဆိုတာ ဘာလဲ", "response": "Variable ဆိုတာ ဒေတာသိမ်းတဲ့ နေရာတစ်ခုပါ။"},
+    {"prompt": "For loop ဘယ်လို ရေးလဲ", "response": "For loop ကို Python မှာ ဒီလို ရေးတယ် - for i in range(5): print(i)"}
+]
